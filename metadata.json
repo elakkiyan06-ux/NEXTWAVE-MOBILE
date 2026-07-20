@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: NEXT WAVE MOBILE",
+  "description": "Premium customer engagement platform for Retro Coders Mobile Store featuring live stock check, smartphone comparisons, EMI calculator, exchange estimator, and AI recommender.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
